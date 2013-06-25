@@ -1,5 +1,5 @@
 (function(window) {
-	'use strict';
+  'use strict';
 
   domino.settings({
     clone: true,
@@ -189,7 +189,7 @@
   // MODULES:
   // ********
   controller.addModule(function() {
-    // Footer module:
+    // Header module:
     domino.module.call(this);
 
     var _self = this,
