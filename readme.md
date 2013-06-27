@@ -1,5 +1,7 @@
 _This [TODO-MVC](http://todomvc.com/) case, based on the [empty template](https://github.com/tastejs/todomvc/tree/gh-pages/template), still needs to be tested on the [required browsers](https://github.com/tastejs/todomvc/blob/gh-pages/contributing.md#browser-compatibility). It will be submitted soon to the [official repository](https://github.com/tastejs/todomvc/)._
 
+_An online demo is available at [jacomyal.github.io/todomvc-domino](http://jacomyal.github.io/todomvc-domino)._
+
 
 # domino.js TodoMVC example
 
